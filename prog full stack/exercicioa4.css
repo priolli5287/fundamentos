@@ -1,0 +1,181 @@
+.flex-container {
+    position: relative;
+    display: flex;
+    background-color: bisque;
+    justify-content: space-between;
+    border: solid 5px darkblue;
+    height: 225px;
+}
+    
+.inicio {
+    display: flex;
+    margin: 5px;
+    font-size: 70px;
+    justify-content: space-between;
+    text-align: center ;
+    color: darkgreen
+}
+.pagina{
+    background-color: lightgray;
+}
+
+.flex-container2 {
+    display: flex;
+    align-items: center;
+    background-color: lightskyblue;
+    font-size: 30px;
+    padding: 20px;
+    height: 20px;
+    color: darkred;
+    margin: 0px;    
+    position: relative;
+    justify-content: space-evenly;
+   
+}
+.pt2 {
+    display: flex;
+    margin: 30px;
+    font-size: 70px;
+    justify-content: space-between;
+    text-align: center ;
+}
+.flex-container3{
+    position: relative;
+    top: 0px;
+    display: flex;
+    height: 500px;
+    flex-direction: column;
+    text-align: center;
+
+}
+.intr{
+    font-size: 50px;
+    color: black;
+    margin: 1px;    
+    position: relative;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+}
+.text{
+    font-size: 20pt;
+    padding: 20px;
+    height: 20px;
+    color: indigo;
+    margin: 1px;
+    
+}
+.flex-container4{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px; 
+    position: relative;
+    top: 0px;
+    flex-direction: column;
+    align-content: center;
+}
+.livros{
+    justify-content: space-evenly;
+    position: relative;
+    top: 0%;
+    display: flex;
+   
+}
+.flex-container5{
+    display: flex;
+    margin: 5px;    
+    position: relative;
+    height: 600px;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+
+    
+  
+}
+.aprenda{
+    font-size: 40px;
+    padding: 20px;
+    height: 50px;
+    color: black;
+    margin: 5px;    
+    position: relative;
+    top: 0px;
+    text-align: center;
+    width: 100%;
+
+
+}
+.flex-container6{
+    display: flex;   
+    position: relative;
+    top: 0%;
+    height: 400px;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+    flex-wrap: wrap;
+
+    
+    
+}
+.contat{
+    font-size: 40px;
+    padding: 50px;
+    height: 70px;
+    color: black;
+    
+    position: relative;
+    top: 0px;
+
+}
+.table{
+    display: flex;
+    font-size: 50px;
+    height: 70px;
+    color: black;
+    margin: 1px;    
+    position: relative;
+    top: 0px;
+    text-align: center;
+}
+.dashed {
+    position: relative;
+    border-style: dashed;
+    border-color: red;
+    text-align: center;
+}
+.solidred{
+    position: relative;
+    border-style: solid;
+    text-align: center;
+    border-color: red;
+    color: red;
+    
+}
+.solid{
+    position: relative;
+    border-style: solid;
+    text-align: center;
+    border-color: red;
+}
+.final{
+    position: relative;
+    display: flex;
+    background-color: bisque;
+    justify-content: space-between;
+    height: 200px;
+    display: flex;
+    margin: 5px;
+    font-size: 70px;
+    justify-content: space-between;
+    text-align: center ;
+    position: relative;
+
+}
+
+.fonte{
+    font:  italic small-caps bold 15px "Comic Sans MS", sans-serif;
+    text-align: center;
+    font-size: 20px;
+}

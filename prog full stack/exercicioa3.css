@@ -1,0 +1,206 @@
+.cabeçalho{
+    background-color: bisque;
+    font-size: 70px;
+    padding: 30px;
+    height: 200px;
+    border: solid 5px darkblue;
+    color: darkgreen;
+    margin: 1px;    
+    position: absolute;
+    top: 1px;
+    left: 2px;
+    right: 2px;
+    vertical-align: middle;
+    
+}
+.centro{text-align: center;}
+
+.img1{position: absolute;
+    top: 20px;
+    left: 20px;
+   
+}
+.img2{position: absolute;
+    top: 20px;
+    right: 20px;
+   
+}
+.parte2{
+    background-color: lightskyblue;
+    font-size: 30px;
+    padding: 20px;
+    height: 20px;
+    color: darkred;
+    margin: 1px;    
+    position: absolute;
+    top: 270px;
+    left: 2px;
+    right: 2px;
+    vertical-align: middle;
+    text-align: center;
+    padding-right: 30px;
+    
+}
+div{
+    display: inline;
+    margin: 30px;
+}
+.pagina{
+    background-color: lightgray;
+   
+}
+
+.intr{
+    font-size: 50px;
+    padding: 20px;
+    height: 20px;
+    color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 320px;
+    left: 2px;
+    right: 2px;
+    text-align: center;
+    
+}
+.text{
+    font-size: 20pt;
+    padding: 20px;
+    height: 20px;
+    color: indigo;
+    margin: 1px;    
+    position: absolute;
+    top: 370px;
+    left: 2px;
+    right: 2px;
+    text-align: center;
+    
+}
+.liv{
+
+    font-size: 50px;
+    padding: 20px;
+     height: 20px;
+     color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 750px;
+    left: 2px;
+    right: 2px;
+    text-align: center;
+        
+}
+
+.bo1{
+    position: absolute;
+    top: 900px;
+    left: 300px;
+    text-align: center
+}
+.bo2{
+    position: absolute;
+    top: 900px;
+    left: 750px;
+    text-align: center
+}
+.bo3{
+    position: absolute;
+    top: 900px;
+    left: 1200px;
+    text-align: center
+}
+
+/* Aprenda a programar com Java e C++ na FEI. */
+.aprenda{
+
+    font-size: 40px;
+    padding: 20px;
+     height: 20px;
+     color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 1500px;
+    left: 2px;
+    right: 2px;
+    text-align: center;
+        
+}
+.video{
+    position: absolute;
+    top: 1600px;
+    left: 2px;
+    right: 2px;   
+    text-align: center; 
+}
+.contat{
+
+    font-size: 40px;
+    padding: 20px;
+     height: 20px;
+     color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 2175px;
+    left: 2px;
+    right: 2px;
+    text-align: center;
+}
+.table{
+
+    font-size: 50px;
+    padding: 50px;
+    height: 70px;
+    color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 2250px;
+    left: 650px;
+    right: 750px;
+    text-align: center;
+}
+.dashed {
+    border-style: dashed;
+    border-color: red;
+    text-align: center;
+}
+.solidred{
+    border-style: solid;
+    text-align: center;
+    border-color: red;
+    color: red;
+    
+}
+.solid{
+    border-style: solid;
+    text-align: center;
+    border-color: red;
+}
+.final{
+    background-color: bisque;
+    font-size: 70px;
+    padding: 30px;
+    height: 150px;
+    color: black;
+    margin: 1px;    
+    position: absolute;
+    top: 2500px;
+    left: 2px;
+    right: 2px;
+    vertical-align: middle;
+    
+}
+
+.img3{position: absolute;
+    bottom: 20px;
+    left: 20px;
+   
+}
+.img4{position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+.fonte{
+    font:  italic small-caps bold 15px "Comic Sans MS", sans-serif;
+    text-align: center;
+    font-size: 20px;
+}

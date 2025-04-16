@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+           while (true){
+           var lab = prompt('digite a nota de laboratorio:')
+           var av  = prompt('digite a nota da avaliação:')
+           var ex  = prompt('digite a nota do exame final:')
+           lab=parseFloat(lab)
+           av=parseFloat(av)
+           ex=parseFloat(ex)
+           if(lab>=0 && lab<=10 && av >=0 && av <=10 && ex >=0 && ex<=10){
+            var nfin = (lab*2 + av*3 + ex*5)/10
+            window.alert('sua nota final  é:' + nfin)
+            break;
+         
+            
+
+           }
+           else{
+            window.alert('nota invalida')
+            }
+           }
+        if (nfin >=8 && nfin<=10){
+            window.alert('nota A')
+
+        }
+        else if (nfin >=7 && nfin<8){
+            window.alert('nota B')
+            
+        }
+        else if (nfin >=6 && nfin<7){
+            window.alert('nota C')
+            
+        }
+        else if (nfin >=5 && nfin<6){
+            window.alert('nota D')
+            
+        }
+        else if (nfin >=0 && nfin<5){
+            window.alert('nota E')
+            
+        }
+        
+        </script>
+
+    </head>
+    <body>
+        
+    </body>
+</html>

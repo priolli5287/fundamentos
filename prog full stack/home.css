@@ -1,0 +1,80 @@
+.inicio{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(61, 126, 245);
+    height: 50px;
+    
+    align-items: center;
+    position: relative;
+}
+
+.branco{
+    text-align: center;
+    border: solid 2px white;
+    margin: 0%;
+    height: 50px;
+    font-size: 20px ;
+    color: white;
+
+    position: relative;
+}
+.São{
+    display: flex;
+    font-size: 50px;    
+    justify-content: flex-start;
+    background-color: white;
+    position: relative;
+}
+.São2{
+    COLOR:rgb(61, 126, 245);
+}
+.Bernardo {
+    color: gray;
+}
+.do{
+    color: yellow;
+
+}
+.Campo{
+    color: green;
+
+}
+.PREF{
+    font-size: 20PX;
+}
+.ESCRITA{
+    display: flex;
+    position: relative;
+    background-color: lightgray;
+    justify-content: space-evenly;
+    height: 600px;
+    flex-direction: space-between;
+
+
+}
+.PAÇO{  
+    font-size: 30px;    
+    flex-direction: column;
+    background-color: yellow;
+    color: white;
+
+
+}
+.es1{    flex-direction: column;
+    border: outset;
+}
+.SECRETARIA{
+    font-size: 30px;    
+
+    background-color: green;
+}
+.fal{
+    font-size: 30px;    
+
+    background-color:  rgb(61, 126, 245);
+    color: white;
+
+}
+.p2{
+    justify-content: space-evenly;
+}
