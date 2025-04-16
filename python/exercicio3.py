@@ -6,3 +6,7 @@ if salario > 1250:
 elif salario <= 1250:
     n2_salario = salario * 1.15
     print('seu novo salario é de %.2f' %n2_salario)
+
+
+
+    ytytcytytfh
